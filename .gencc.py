@@ -10,7 +10,7 @@ from random import randint
 version = "2.0.0"
 #Mensaje
 os.system ("clear")
-print("\033[1;31mRESULTADOS\033[1;32m")
+print("\033[1;31mRESULTADOS:\033[1;32m")
 print("")
 #Arg parser
 def parseOptions(argv):
