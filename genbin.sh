@@ -11,7 +11,7 @@ CYAN='\033[01;36m'
 clear
 
 #Generador Inicial
-echo -e $RED "GENERADOR DE BIN PYTHON"
+echo -e $RED "GENERADOR DE BIN TERMUX"
 echo ""
 echo -ne "\e[1;32mINGRESA BIN: ";
 read BIN;
